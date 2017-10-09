@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Print_N.c
+  Print_L.c
+  Print_I.c
+  Print_E.c
+  Print_D.c
+  Print_A.c
+  main.c
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(6): warning C4013: 'Print_D' 未定義; 假設 extern 傳回整數
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(9): warning C4013: 'Print_A' 未定義; 假設 extern 傳回整數
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(12): warning C4013: 'Print_N' 未定義; 假設 extern 傳回整數
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(15): warning C4013: 'Print_I' 未定義; 假設 extern 傳回整數
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(18): warning C4013: 'Print_E' 未定義; 假設 extern 傳回整數
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\main.c(21): warning C4013: 'Print_L' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_a.c(11): warning C4716: 'Print_A': 必須傳回值
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_d.c(11): warning C4716: 'Print_D': 必須傳回值
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_e.c(11): warning C4716: 'Print_E': 必須傳回值
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_i.c(11): warning C4716: 'Print_I': 必須傳回值
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_l.c(11): warning C4716: 'Print_L': 必須傳回值
+c:\users\daleliao1141\desktop\106360217_賴俊志\2.25\source\print_n.c(11): warning C4716: 'Print_N': 必須傳回值
+  HW.vcxproj -> C:\Users\daleliao1141\Desktop\106360217_賴俊志\2.25\HW\HW\..\..\temp\debug\HW.exe
+  HW.vcxproj -> ..\..\temp\debug\HW.pdb (Full PDB)

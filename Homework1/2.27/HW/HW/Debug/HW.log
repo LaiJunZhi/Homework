@@ -1,0 +1,2 @@
+﻿  main.c
+LINK : fatal error LNK1561: 必須定義進入點
