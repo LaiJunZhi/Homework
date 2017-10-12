@@ -1,0 +1,4 @@
+int print_A();
+int print_B();
+int print_C();
+int print_D();
