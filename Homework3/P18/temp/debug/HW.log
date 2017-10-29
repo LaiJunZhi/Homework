@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+c:\users\daleliao1141\desktop\homework\homework3\p18\source\main.c(19): warning C4098: 'main': 'void' 函式正在傳回值
+c:\users\daleliao1141\desktop\homework\homework3\p18\source\main.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+  HW.vcxproj -> C:\Users\daleliao1141\Desktop\Homework\Homework3\P18\HW\HW\..\..\temp\debug\HW.exe
+  HW.vcxproj -> ..\..\temp\debug\HW.pdb (Full PDB)
