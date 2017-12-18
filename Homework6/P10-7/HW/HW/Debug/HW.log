@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\daleliao1141\desktop\homework\homework6\p10-7\source\main.c(22): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  HW.vcxproj -> C:\Users\daleliao1141\Desktop\Homework\Homework6\P10-7\HW\Debug\HW.exe
+  HW.vcxproj -> C:\Users\daleliao1141\Desktop\Homework\Homework6\P10-7\HW\Debug\HW.pdb (Full PDB)
